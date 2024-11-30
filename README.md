@@ -19,17 +19,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan-2313&show_icons=true&locale=en" alt="adnan-2313" /></p>
 
 <h3>🤝🏻 Connect with Me</h3>
-<div style="display: flex; align-items: center; gap: 10px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
-  <a href="https://www.linkedin.com/in/adnankhan123/" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/adnankhan123/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 5px;" />
     LinkedIn (Adnan Khan)
   </a>
   <a href="mailto:ak567845@gmail.com" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="30" style="margin-right: 5px;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nd82eFk5SaBPRIeCpmwL7A4YSokA-kXSmw&s" alt="Email" height="30" width="30" style="margin-right: 5px;" />
     Email (ak567845@gmail.com)
   </a>
-  <a href="https://leetcode.com/u/code_adnan54/" target="_blank" style="text-decoration: none; color: inherit; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" style="margin-right: 5px;" />
-    LeetCode (code_adnan54)
-  </a>
-</div>
+</p>
