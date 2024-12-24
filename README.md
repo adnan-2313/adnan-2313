@@ -5,7 +5,7 @@
   <li>💼 Open to internships and full-time opportunities in front-end development.</li>
   <li>📂 Experienced in building responsive and interactive web applications using modern web technologies.</li>
   <li>🔧 Proficient in tools like Redux Toolkit, Tailwind CSS, Material UI, and SASS/SCSS.</li>
-  <li>🌐 Check out my portfolio: <a href="https://adnankhanportfolio.vercel.app/" target="_blank">@adnanportfolio</a>.</li>
+  <li>🌐 Check out my portfolio: <a href="https://personal-portfolio-tau-opal.vercel.app/" target="_blank">@adnanportfolio</a>.</li>
   <li>📫 How to reach me: LinkedIn - <a href="https://www.linkedin.com/in/adnankhan123/" target="_blank">@adnan123</a></li>
   <li>🧩 Strong in problem-solving and Data Structures & Algorithms (DSA).</li>
   <li>🤝 Passionate about collaborating with backend teams to integrate APIs seamlessly.</li>
